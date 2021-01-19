@@ -1,7 +1,7 @@
 # video-2-ASCII-converter
 
 This simple software will turn mp4 files in to ASCII art in a HTML file  
-you can open the exit file in chrome 
+you can open the HTML file in chrome 
 
 To setup run the --- Video2AsciiArtSetup64 --- first it work better with the 64 bits os
 
