@@ -5,7 +5,7 @@ you can open the exit file in chrome
 
 To setup run the --- Video2AsciiArtSetup64 --- first it work better with the 64 bits os
 
-/!\ if --- Video2AsciiArtSetup64 --- doesn't work.Run --- Video2AsciiArtSetup32 ---    /!\
+/!\ if --- Video2AsciiArtSetup64 --- doesn't work. Try --- Video2AsciiArtSetup32 ---    /!\
 
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
